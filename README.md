@@ -27,7 +27,9 @@
 
 ###
 
-<img align="right" height="178" width="200" src="https://media.tenor.com/LA27UCwAcccAAAAi/also-fine-spray-raze.gif" style="margin-top: 20px;" />
+<div class="invisible-box" style="display: inline-block; width: 200px; height: 200px; border: none; position: relative; text-align: right; margin-top: 20px;">
+    <img align="right" height="178" width="200" src="https://media.tenor.com/LA27UCwAcccAAAAi/also-fine-spray-raze.gif" style="width: 100%; height: auto; object-fit: contain;" />
+</div>
 
 
 ###
