@@ -44,6 +44,7 @@
             <img width="12" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo" />
             <img width="12" />
+            <img src="https://media.tenor.com/LA27UCwAcccAAAAi/also-fine-spray-raze.gif" style="width: 45%; height: auto; object-fit: contain;" align='right' />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
             <img width="12" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
@@ -84,9 +85,7 @@
         </div>
     </div>
     <!-- Transparent Image on the Right -->
-    <div class="invisible-box" style="width: 200px; height: 200px; border: none; position: relative; margin-left: 20px;">
-        <img src="https://media.tenor.com/LA27UCwAcccAAAAi/also-fine-spray-raze.gif" style="width: 100%; height: auto; object-fit: contain;" />
-    </div>
+    
 </div>
 
 
