@@ -16,6 +16,7 @@
 </div>
 
 ###
+<h2 align="left">👾 Count ✦</h2>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/AnubhabL4002/count.svg?"  />
@@ -26,9 +27,11 @@
 
 ###
 
-<img align="right" height="178" width="200" src="https://media.tenor.com/LA27UCwAcccAAAAi/also-fine-spray-raze.gif"  />
+<img align="right" height="178" width="200" src="https://media.tenor.com/LA27UCwAcccAAAAi/also-fine-spray-raze.gif" style="margin-top: 20px;" />
+
 
 ###
+<h2 align="left">💻 Skills ✦</h2>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Unreal Engine-0E1128?logo=unrealengine&logoColor=white&style=for-the-badge" height="40" alt="unrealengine logo" style="padding: 20px;"/>
@@ -83,6 +86,8 @@
 </div>
 
 ###
+<br>
+<h2 align="left">🌐 Socials ✦</h2>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
