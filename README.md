@@ -23,7 +23,6 @@
 
 ###
 
-<img align="left" height="150" width="150" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=6c09b952pzix8kj1buffurjeman8sr3km879o100iald5vjg&ep=v1_gifs_search&rid=giphy.gif&ct=g" style="padding: 20px;"/>
 
 ###
 
