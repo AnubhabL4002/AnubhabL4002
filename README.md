@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" height="150" width="150" src="https://c.tenor.com/O0ALP1rYsDQAAAAC/tenor.gif"  />
+<img align="left" height="150" width="150" src="https://github.com/AnubhabL4002/AnubhabL4002/blob/main/gekko.gif?raw=true"  />
 
 ###
 
